@@ -1,4 +1,4 @@
 # Salut I'am Juan Castellanos
 <br>
 <br>
-[![readmelogo.jpg](https://i.postimg.cc/W18n0x0M/readmelogo.jpg)](https://postimg.cc/DSWLTjjZ)
+<img src="https://i.postimg.cc/W18n0x0M/readmelogo.jpg" alt="Juan´s GitHub Banner" style="max-width: 100%;">
